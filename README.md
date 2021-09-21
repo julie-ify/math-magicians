@@ -12,8 +12,9 @@
 - CSS
 - JavaScript
 - React
-<!-- ## Live Demo
-Visit the live demo [here](https://bit.ly/3tI5qU1) -->
+
+## Live Demo
+Visit the live demo [here](https://julie-ify.github.io/math-magicians/)
 
 ## Getting Started
 
