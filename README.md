@@ -4,16 +4,16 @@
 
 > "Math magicians" is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to make simple calculations and Read a random math-related quote.
 
-<!-- ![screenshot](./src/assets/images/scrnsht.png) -->
+![screenshot](./public/images/math1-img.png)
+![screenshot](./public/images/math2-img.png)
 
 ## Built With
 
-- HTML
-- CSS
-- JavaScript
 - React
-<!-- ## Live Demo
-Visit the live demo [here](https://bit.ly/3tI5qU1) -->
+
+## Live Demo
+
+Visit the live demo [here](https://julie-ify.github.io/math-magicians/)
 
 ## Getting Started
 
@@ -37,7 +37,7 @@ Visit the live demo [here](https://bit.ly/3tI5qU1) -->
 
 - Running `npm start` should start the server on the browser
 - Start solving math
-- Checkout random quotes
+- Checkout quotes
 
 ## Author
 
@@ -59,6 +59,5 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - Hat tip to anyone whose design template was used
-- My friends
 - Inspiration
 - etc
