@@ -9,7 +9,7 @@ describe('test if Navbar', () => {
       .create(
         <BrowserRouter>
           <Navbar />
-        </BrowserRouter>
+        </BrowserRouter>,
       )
       .toJSON();
     expect(component).toMatchSnapshot();
