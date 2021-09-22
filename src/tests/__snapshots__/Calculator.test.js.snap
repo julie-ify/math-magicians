@@ -1,5 +1,7 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
+exports[`Calculator Responds on user command  1`] = `undefined`;
+
 exports[`Test if Calculator renders Calculator correctly 1`] = `
 <div
   className="calcWrapper"
