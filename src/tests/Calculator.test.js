@@ -1,7 +1,7 @@
 import React from 'react';
 import renderer from 'react-test-renderer';
 import { render, screen, fireEvent } from '@testing-library/react';
-import Calculator from '../components/Calculator.js';
+import Calculator from '../components/Calculator';
 
 describe('Test if Calculator', () => {
   test('renders Calculator correctly', () => {
