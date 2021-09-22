@@ -30,7 +30,7 @@ describe('testing the calculate function', () => {
     };
     const expectObj = {
       total: null,
-      next: "54",
+      next: '54',
       operation: '+',
     };
     expect(calculate(obj, '4')).toMatchObject(expectObj);
@@ -43,7 +43,7 @@ describe('testing the calculate function', () => {
     };
     const expectObj = {
       total: null,
-      next: "54",
+      next: '54',
     };
     expect(calculate(obj, '4')).toMatchObject(expectObj);
   });
@@ -56,16 +56,16 @@ describe('testing the calculate function', () => {
     const expectObj = { };
     expect(calculate(obj, '=')).toMatchObject(expectObj);
   });
-  test( "User pressed an operation after pressing '=' updates operation", () => {
+  test("User pressed an operation after pressing '=' updates operation", () => {
     const obj = {
       total: 10,
       next: null,
       operation: null,
     };
-    const expectObj = { 
+    const expectObj = {
       total: 10,
       next: null,
-      operation: "+",
+      operation: '+',
     };
     expect(calculate(obj, '+')).toMatchObject(expectObj);
   });
