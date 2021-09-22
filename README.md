@@ -46,6 +46,14 @@ Visit the live demo [here](https://julie-ify.github.io/math-magicians/)
 - [GitHub](https://github.com/julie-ify)
 - [LinkedIn](https://www.linkedin.com/in/e-ifionu/)
 
+## Author
+
+👤 **Aleksandar Ivezic**
+
+- GitHub: [Aleksandar Ivezic](https://github.com/ShinobiWarior)
+- Twitter: [@Aivezic](https://twitter.com/Aivezic)
+- LinkedIn: [Aleksandar Ivezic](https://www.linkedin.com/in/aleksandar-ivezic/)
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
