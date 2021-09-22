@@ -12,13 +12,13 @@ describe('Test if Calculator', () => {
 
 describe('Calculator', () => {
   test('Responds on user pressing two numbers ', () => {
-    render(<Calculator />)
+    render(<Calculator />);
     fireEvent.click(screen.getByText('1'));
     fireEvent.click(screen.getByText('2'));
     expect(screen.getByRole('textbox').value).toBe('12');
   });
   test('Responds on user pressing one number ', () => {
-    render(<Calculator />)
+    render(<Calculator />);
     fireEvent.click(screen.getByText('1'));
     expect(screen.getByRole('textbox').value).toBe('1');
   });

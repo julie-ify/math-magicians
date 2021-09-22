@@ -23,6 +23,7 @@ exports[`test if Navbar renders correctly 1`] = `
         <a
           aria-current="page"
           className="link active-link"
+          data-testid={1}
           href="/"
           onClick={[Function]}
           style={Object {}}
@@ -36,6 +37,7 @@ exports[`test if Navbar renders correctly 1`] = `
         <a
           aria-current={null}
           className="link"
+          data-testid={2}
           href="/calculator"
           onClick={[Function]}
         >
@@ -48,6 +50,7 @@ exports[`test if Navbar renders correctly 1`] = `
         <a
           aria-current={null}
           className="link"
+          data-testid={3}
           href="/quote"
           onClick={[Function]}
         >
