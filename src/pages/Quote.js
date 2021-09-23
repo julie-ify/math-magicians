@@ -23,9 +23,11 @@ const Quote = () => {
     getQuote();
   }, []);
 
+  const { author, quote } = state.quote;
+
   return (
     <div className="quoteWrap">
-      <div className="newQuote">{state.quote.quote ? `${state.quote.quote} - ${state.quote.author}` : 'loading...'}</div>
+      <div className="newQuote">{quote ? `${quote} - ${author}` : 'loading...'}</div>
       <button type="button" onClick={() => getQuote()} className="getQuote">
         New QUote
       </button>
