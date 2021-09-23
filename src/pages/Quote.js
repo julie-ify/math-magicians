@@ -25,7 +25,7 @@ const Quote = () => {
 
   return (
     <div className="quoteWrap">
-      <div className="newQuote">{state.quote.quote ? state.quote.quote : 'loading...'}</div>
+      <div className="newQuote">{state.quote.quote ? `${state.quote.quote} - ${state.quote.author}` : 'loading...'}</div>
       <button type="button" onClick={() => getQuote()} className="getQuote">
         New QUote
       </button>
