@@ -5,7 +5,7 @@
 
 body {
   margin: 0;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: monospace;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-color: #f4f4f4;
@@ -154,10 +154,38 @@ body {
 
 /* Quote Page */
 
-.quoteParagraph {
+.quoteWrap {
   width: 70%;
   margin: 3rem auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  row-gap: 5rem;
+}
+
+.newQuote {
   color: #2b2e4a;
+  margin-top: 2rem;
+  height: 100px;
+}
+
+.getQuote {
+  text-transform: uppercase;
+  background-color: #2b2e4a;
+  color: #f4f4f4;
+  padding: 1rem 2rem;
+  text-align: center;
+  outline: none;
+  border: none;
+  border-radius: 8px;
+  font-weight: 700;
+}
+
+.getQuote:hover {
+  color: #2b2e4a;
+  background-color: rgb(245, 131, 1);
+  cursor: pointer;
 }
 
 @media (min-width: 800px) {
