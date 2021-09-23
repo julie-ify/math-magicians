@@ -58,8 +58,13 @@ body {
   box-shadow: inset 2px 2px 2px #cbced1, inset -2px -2px 2px #fff;
 }
 
+.button:hover {
+  background-color: #2b2e4a;
+  color: #f4f4f4;
+}
+
 .span_5 {
-  background-color: #888;
+  background-color: #2b2e4a;
   grid-column: 1 / 5;
   text-align: right;
   padding: 1.5rem;

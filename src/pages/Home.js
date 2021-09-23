@@ -5,20 +5,17 @@ const Home = () => (
     <div className="homePageWrap">
       <h1>Welcome to our page</h1>
       <p className="homeParagraph">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tellus
-        augue, tincidunt malesuada nulla sed, rutrum porttitor dui. Nunc egestas
-        lectus vitae ante aliquet lobortis. Integer nec elementum augue. Morbi
-        imperdiet gravida elit id pulvinar. Fusce scelerisque eleifend pretium.
-        In ultrices mi nec lacinia lacinia. Nulla facilisi. In vestibulum nulla
-        sed tempor vehicula.
+        mathematics is the science of structure, order, and relation that has
+        evolved from elemental practices of counting, measuring, and describing
+        the shapes of objects. It deals with logical reasoning and quantitative
+        calculation, and its development has involved an increasing degree of
+        idealization and abstraction of its subject matter.
       </p>
       <p className="homeParagraph">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tellus
-        augue, tincidunt malesuada nulla sed, rutrum porttitor dui. Nunc egestas
-        lectus vitae ante aliquet lobortis. Integer nec elementum augue. Morbi
-        imperdiet gravida elit id pulvinar. Fusce scelerisque eleifend pretium.
-        In ultrices mi nec laciniaslacinia. Nulla facilisi. In vestibulum nulla
-        sed tempor vehicula.
+        Since the 17th century, mathematics has been an indispensable adjunct to
+        the physical sciences and technology, and in more recent times it has
+        assumed a similar role in the quantitative aspects of the life sciences.
+        <a href="https://www.britannica.com/science/mathematics">Britannica </a>
       </p>
     </div>
   </div>
