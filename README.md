@@ -15,7 +15,9 @@
 
 ## Live Demo
 
-Visit the live demo [here](https://julie-ify.github.io/math-magicians/)
+<img alt="HEROKU" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" /> [Link]()
+
+<img alt="NETLIFY" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /> [Link](https://nervous-stonebraker-c8a3a5.netlify.app/)
 
 ## Getting Started
 
