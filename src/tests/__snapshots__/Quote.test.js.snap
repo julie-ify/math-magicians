@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test if Quote renders correctly 1`] = `
+<div
+  className="quoteWrap"
+>
+  <div
+    className="newQuote"
+  >
+    loading...
+  </div>
+  <button
+    className="getQuote"
+    onClick={[Function]}
+    type="button"
+  >
+    New QUote
+  </button>
+</div>
+`;
