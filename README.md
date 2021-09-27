@@ -5,6 +5,8 @@
 > "Math magicians" is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to make simple calculations and Read a random math-related quote.
 
 ![screenshot](./public/images/math1-img.png)
+
+
 ![screenshot](./public/images/math2-img.png)
 
 ## Built With
@@ -13,7 +15,9 @@
 
 ## Live Demo
 
-Visit the live demo [here](https://julie-ify.github.io/math-magicians/)
+<img alt="HEROKU" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" /> [Link]()
+
+<img alt="NETLIFY" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /> [Link](https://nervous-stonebraker-c8a3a5.netlify.app/)
 
 ## Getting Started
 
