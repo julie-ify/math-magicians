@@ -15,7 +15,7 @@
 
 ## Live Demo
 
-<img alt="HEROKU" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" /> [Link]()
+<img alt="HEROKU" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" /> [Link](https://julie-math-magicians.herokuapp.com/)
 
 <img alt="NETLIFY" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /> [Link](https://nervous-stonebraker-c8a3a5.netlify.app/)
 
