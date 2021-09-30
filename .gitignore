@@ -8,7 +8,7 @@
 # testing
 /coverage
 .stylelintrc.json
-.eslintrc.json 
+.eslintrc.json
 
 # production
 /build
